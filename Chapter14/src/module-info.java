@@ -3,4 +3,5 @@ module Chapter14 {
     requires javafx.controls;
 
     opens Listings;
+    opens CaseStudy;
 }
