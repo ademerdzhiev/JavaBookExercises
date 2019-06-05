@@ -4,4 +4,6 @@ module Chapter14 {
 
     opens Listings;
     opens CaseStudy;
+    opens Exercises;
+    opens images;
 }
