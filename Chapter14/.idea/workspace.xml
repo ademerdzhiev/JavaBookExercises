@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex_14_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_1.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-5">
@@ -102,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
@@ -178,8 +174,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="234" />
+    <option name="x" value="283" />
+    <option name="y" value="282" />
     <option name="width" value="950" />
     <option name="height" value="765" />
   </component>
@@ -706,17 +702,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="44" column="97" selection-start-line="44" selection-start-column="82" selection-end-line="44" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
