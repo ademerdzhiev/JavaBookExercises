@@ -6,4 +6,5 @@ module Chapter14 {
     opens CaseStudy;
     opens Exercises;
     opens images;
+    opens images.card;
 }

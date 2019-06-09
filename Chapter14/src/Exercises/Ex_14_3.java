@@ -6,14 +6,11 @@ import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
-import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class Ex_14_3 extends Application {
@@ -31,7 +28,7 @@ public class Ex_14_3 extends Application {
 
         for (int i = 0; i < 3; i++) {
             int rand = (int)(Math.random()*54 + 1);
-            String path = "images/" + rand + ".png";
+            String path = "images/card/" + rand + ".png";
             hBox.getChildren().add(new ImageView(new Image(path)));
         }
 
