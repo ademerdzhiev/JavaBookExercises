@@ -65,7 +65,6 @@ public class Ex_14_19 extends Application {
 
             Polyline polylineSine = new Polyline();
             ObservableList<Double> listSine = polylineSine.getPoints();
-            double scaleFactor = 50;
 
             for (double x = -getWidth()/2.6; x <= getWidth()/2.6; x++) {
                 listSine.add(x + getWidth()/2);
