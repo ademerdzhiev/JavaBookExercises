@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="ex_14_19 finished">
-      <change afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/MyCubeFuntion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/SineCosine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex_14_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_19.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="ex_14_19 finished" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -81,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="46" />
+            <state relative-caret-position="774">
+              <caret line="43" selection-start-line="43" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -90,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="774">
               <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
             </state>
           </provider>
@@ -99,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
+            <state relative-caret-position="1422">
               <caret line="79" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
@@ -181,7 +172,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="368" />
     <option name="y" value="164" />
     <option name="width" value="1219" />
@@ -291,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex_14_23">
+  <component name="RunManager" selected="Application.Ex_14_21">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -435,18 +426,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Ex_14_6" />
       <item itemvalue="Application.Ex_14_20" />
       <item itemvalue="Application.Ex_14_21" />
       <item itemvalue="Application.Ex_14_22" />
       <item itemvalue="Application.Ex_14_23" />
+      <item itemvalue="Application.Ex_14_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_14_23" />
-        <item itemvalue="Application.Ex_14_22" />
         <item itemvalue="Application.Ex_14_21" />
         <item itemvalue="Application.Ex_14_20" />
+        <item itemvalue="Application.Ex_14_23" />
+        <item itemvalue="Application.Ex_14_22" />
         <item itemvalue="Application.Ex_14_6" />
       </list>
     </recent_temporary>
@@ -507,7 +498,7 @@
   <component name="ToolWindowManager">
     <frame x="368" y="164" width="1219" height="865" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.29905742" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.3050557" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -817,21 +808,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="46" />
+        <state relative-caret-position="774">
+          <caret line="43" selection-start-line="43" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="774">
           <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="1422">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
