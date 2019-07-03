@@ -170,8 +170,9 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="399" />
+    <option name="y" value="712" />
     <option name="width" value="1189" />
     <option name="height" value="545" />
   </component>
@@ -393,12 +394,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Ex_14_21" />
       <item itemvalue="Application.Ex_14_22" />
       <item itemvalue="Application.Ex_14_23" />
       <item itemvalue="Application.Ex_14_24" />
       <item itemvalue="Application.Ex_14_25" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
