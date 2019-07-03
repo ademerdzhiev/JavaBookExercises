@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="ex_14_19 finished" />
+=======
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="ex_14_19 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter14/Exercises/Ex_14_24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex_14_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Ex_14_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Ex_14_25.java" afterDir="false" />
+    </list>
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,33 +70,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_19.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="83" selection-start-line="83" selection-end-line="83" />
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_20.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_24.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="774">
               <caret line="43" selection-start-line="43" selection-end-line="46" />
+=======
+            <state relative-caret-position="107">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_21.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_25.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="774">
               <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+=======
+            <state relative-caret-position="619">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="20" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_22.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1422">
@@ -97,10 +117,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+=======
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
         <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+            <state relative-caret-position="439">
+              <caret line="68" column="74" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -168,15 +190,25 @@
         <option value="$PROJECT_DIR$/src/Exercises/Ex_14_20.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Ex_14_22.java" />
         <option value="$PROJECT_DIR$/src/Exercises/Ex_14_23.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Ex_14_24.java" />
+        <option value="$PROJECT_DIR$/src/Exercises/Ex_14_25.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="368" />
     <option name="y" value="164" />
     <option name="width" value="1219" />
     <option name="height" value="865" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="399" />
+    <option name="y" value="712" />
+    <option name="width" value="1189" />
+    <option name="height" value="545" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -187,6 +219,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -215,41 +248,12 @@
               <item name="Chapter14" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_14_15.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Chapter14" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_14_16.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Chapter14" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_14_18.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Chapter14" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_14_19.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Chapter14" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,11 +266,11 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560312229580" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562128344969" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -282,7 +286,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Ex_14_21">
+=======
+  <component name="RunManager" selected="Application.Ex_14_25">
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -297,20 +305,6 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_14_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex_14_20" />
-      <module name="Chapter14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -357,8 +351,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_14_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.Ex_14_6" />
+    <configuration name="Ex_14_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex_14_24" />
+      <module name="Chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_14_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.Ex_14_25" />
       <module name="Chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -404,7 +412,6 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -425,6 +432,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Ex_14_20" />
       <item itemvalue="Application.Ex_14_21" />
@@ -439,6 +447,22 @@
         <item itemvalue="Application.Ex_14_23" />
         <item itemvalue="Application.Ex_14_22" />
         <item itemvalue="Application.Ex_14_6" />
+=======
+      <item itemvalue="Application.Ex_14_21" />
+      <item itemvalue="Application.Ex_14_22" />
+      <item itemvalue="Application.Ex_14_23" />
+      <item itemvalue="Application.Ex_14_24" />
+      <item itemvalue="Application.Ex_14_25" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex_14_25" />
+        <item itemvalue="Application.Ex_14_24" />
+        <item itemvalue="Application.Ex_14_23" />
+        <item itemvalue="Application.Ex_14_22" />
+        <item itemvalue="Application.Ex_14_21" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
       </list>
     </recent_temporary>
   </component>
@@ -496,9 +520,13 @@
     <option name="totallyTimeSpent" value="1302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="368" y="164" width="1219" height="865" extended-state="0" />
+    <frame x="0" y="27" width="1920" height="1020" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.3050557" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18943436" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,7 +535,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4513889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29105324" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +546,7 @@
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" weight="0.32914287" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32342857" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3222417" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -603,20 +631,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Listings/Listing_14_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CaseStudy/ClockPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-725">
-          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Listings/Listing_14_9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -792,45 +806,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_18.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_20.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_21.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" selection-start-line="43" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        <state relative-caret-position="37">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+<<<<<<< HEAD
+        <state relative-caret-position="774">
+          <caret line="43" selection-start-line="43" selection-end-line="46" />
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="774">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+=======
+        <state relative-caret-position="107">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_23.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+<<<<<<< HEAD
+        <state relative-caret-position="1422">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+=======
+        <state relative-caret-position="439">
+          <caret line="68" column="74" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="76" />
+>>>>>>> 6cc8eb41aedfd91b0b2aaad21fda0528bfa593a3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercises/Ex_14_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="20" />
         </state>
       </provider>
     </entry>
